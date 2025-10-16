@@ -1,7 +1,7 @@
-Wireframe
-![Wireframe_interfaz_principal](/interfaces/Captura%20de%20pantalla%202025-10-15%20185818.png)
+Wireframe<br>
+![Wireframe_interfaz_principal](/interfaces/Captura%20de%20pantalla%202025-10-15%20185818.png)<br>
 Mockup
-Login
+Login<br>
 ![Mockup_login](/interfaces/WhatsApp%20Image%202025-10-15%20at%2011.49.31%20AM.jpeg)
 Interfaz Principal
 ![Mockup_interfaz_principal](/interfaces/WhatsApp%20Image%202025-10-15%20at%2011.48.57%20AM.jpeg)
