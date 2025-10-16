@@ -1,2 +1,2 @@
 
-<img width="816" height="1056" alt="Aspose Words 180fbb20-fb66-418b-aa32-8e66f26b663d 001" src="https://github.com/user-attachments/assets/2e00a8fc-c2f1-4dcb-9c36-5a84c481ec15" />
+<img width="1920" height="1080" alt="diagrama de flujo" src="https://github.com/user-attachments/assets/23884886-a97f-4ab0-9f92-b2d20af3adbc" />
